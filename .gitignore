@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local tooling
+.venv-build/
+.tmp_magisk_test/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Release build working dirs/tools
+release/OpenFlasher.AppDir/
+release/tools/
+
+# Binary release artifacts (upload via GitHub Releases instead)
+release/*.AppImage
+release/*.zip
+
+# Local logs
+*.log
