@@ -21,3 +21,6 @@ release/*.zip
 
 # Local logs
 *.log
+
+# Local release artifacts
+release/
