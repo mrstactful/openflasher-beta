@@ -1,6 +1,7 @@
 # OpenFlasher Beta
 
-OpenFlasher is a Linux GUI frontend for Samsung firmware flashing with Heimdall, plus integrated Magisk patch workflow.
+OpenFlasher is an **Odin for Linux** style GUI for Samsung firmware flashing with Heimdall, plus an integrated Magisk patch workflow.
+It is a practical **Samsung Odin alternative for Linux** (Heimdall GUI + AP/Magisk patch support).
 
 ## Status
 
@@ -26,6 +27,17 @@ Main artifacts:
 - AP package Magisk patch support
 - Real-time flashing logs and progress UI
 - Turkish and English UI
+
+## Discoverability Keywords
+
+These terms are intentionally included so users can find this project easily:
+
+- Odin for Linux
+- Samsung Odin alternative
+- Samsung firmware flash tool Linux
+- Heimdall GUI
+- Samsung ROM flashing Linux
+- Samsung AP patch Magisk
 
 ## Quick Start (AppImage)
 
